@@ -1,12 +1,14 @@
-## Paws Blog!
+## Abraham "Honest Abe" Lincoln
 
-[![Screenshot](pawsblog.png)](http://pawsblog.herokuapp.com)
+[![Screenshot](honest-abe.png)](http://mday100.github.io/honest-abe)
 
 ## Summary
 
-Paws Blog is a work-in-progress Ruby on Rails app I developed as an adaptation to the [Ruby on Rails Tutorial] (https://www.railstutorial.org) final app. Paws Blog strives to become the #1 Pet Lovers Blog in the world. Awwwwww.
+Abraham "Honest Abe" Lincoln was the President of the United States of America - 1861 to 1865. This was one of the first static HTML pages I made with the help of [Thinkful] (http://www.thinkful.com).
 
-Built with Ruby on Rails on the backend and Javascript and Bootstrap on the frontend.
+Built with straight up HTML and CSS on the frontend.
+
+Hosted on GitHub Pages.
 
 
 ---
